@@ -11,3 +11,10 @@ This Repo is an Awesome List for Quantum Computing Enthusiast. This contains blo
 
 ## Quantum COmputing Challenge 
 1) [IBM Quantum Computing Challenge](https://quantum-computing.ibm.com/jupyter/user/may4-challenge/ex01/Challenge1_BasicQuantumCircuits.ipynb) : May 4 Challenge- Starting with basics to 4 challenges
+
+
+
+## Platforms to learn
+1) [Understandin quantum states, Pauli operators, and other single-qubit gates](https://qiskit.org/textbook/ch-states/introduction.html) - IBMQ Experience
+2) [Multiqubits and their relations](https://qiskit.org/textbook/ch-gates/introduction.html) - IBMQ Experience
+
