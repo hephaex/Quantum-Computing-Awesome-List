@@ -17,4 +17,5 @@ This Repo is an Awesome List for Quantum Computing Enthusiast. This contains blo
 ## Platforms to learn
 1) [Understandin quantum states, Pauli operators, and other single-qubit gates](https://qiskit.org/textbook/ch-states/introduction.html) - IBMQ Experience
 2) [Multiqubits and their relations](https://qiskit.org/textbook/ch-gates/introduction.html) - IBMQ Experience
+3) [Error Mitigation](https://qiskit.org/textbook/ch-quantum-hardware/measurement-error-mitigation.html) - IBMQ Experience
 
