@@ -6,5 +6,8 @@ This Repo is an Awesome List for Quantum Computing Enthusiast. This contains blo
 ## Quantum Computing Series Articles:
 1) [The Quantum Computing Series](https://medium.com/@jonathan_hui/qc-quantum-computing-series-10ddd7977abd) : Realization of a quantum computer, Quantum computing (quantum gates), Quantum Algorithm, Shor’s Algorithm etc.
 2) [A-Z of Quantum Computing](https://medium.com/faun/a-z-of-quantum-computing-8004b71384dd) : History of classical computing,Difference between classical and quantum computers, Hardware Realization, Qubits and Bits etc
-3) 
-4)
+
+
+
+## Quantum COmputing Challenge 
+1) [IBM Quantum Computing Challenge](https://quantum-computing.ibm.com/jupyter/user/may4-challenge/ex01/Challenge1_BasicQuantumCircuits.ipynb) : May 4 Challenge- Starting with basics to 4 challenges
